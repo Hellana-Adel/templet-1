@@ -1,0 +1,50 @@
+
+a{
+    margin: 10px;
+}
+  
+
+#b{ height: 700px;
+    background-color: wheat;
+}
+#d{
+    background-color: wheat;
+}
+#e{ 
+    height: 700px;
+    background-color: wheat;
+}
+#f{
+    background-color: wheat;
+}
+#g{
+    background-color: wheat;
+}
+ #c{
+    background-color: gray;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+#v{
+    background-color: rgb(160, 157, 157);
+    padding: 11px 17px;
+}
+#vv{
+    display: flex;
+  flex-wrap: nowrap;
+  margin: 10px;
+  
+}
+#v,x{
+  padding: 10px;
+  margin: 10px;
+  background-color: wheat;
+  
+}
+#cc{
+    float: inline-end;
+}
+a:hover{
+    background-color: wheat;
+}
